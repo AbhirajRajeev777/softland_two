@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#click_new").click(function(){$("#ads_nav").slideToggle()});$("#click_related").click(function(){$("#flicker_nav").slideToggle()});$("#click_tags").click(function(){$("#tag_nav").slideToggle()})})

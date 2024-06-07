@@ -1,0 +1,1 @@
+$('#horizontalTab').easyResponsiveTabs({type:'default',width:'auto',fit:!0})
